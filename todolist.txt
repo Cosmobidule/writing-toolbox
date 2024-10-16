@@ -1,0 +1,16 @@
+> Architecture
+
+> First draft for author module
+
+> First draft for stories module
+
+> First draft for faceclaims module
+
+> First draft for characters module
+
+> pics :
+- local for starter
+- servimg like for after (like external link)
+
+> data
+- writing in json
